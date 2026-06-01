@@ -1,2 +1,2 @@
-# Par_1C325.20250530.PaulaCapozzoli
+# Paula.Capozzoli.PP.ProgII321
 Repositorio del primer parcial de Programación II
